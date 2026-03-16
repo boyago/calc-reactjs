@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import "./App.css";
-// exemplo
+
 export default () => {
     const[numero1, setNumero1]     = useState("");
     const[numero2, setNumero2]     = useState("");
